@@ -12,6 +12,8 @@ function renderMovie(data){
   }
 }
 
+FUB
+
 function changeStarRating(rating){
   $(".filled").removeClass("filled");
   for(let i=1; i<=rating; i++){
